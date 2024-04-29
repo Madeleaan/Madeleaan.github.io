@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "f9fee7f3e02feb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c22e68cd7ccd39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74f3d485ae33cb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informatika/Řešení soustavy rovnic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b0d1a9bff8039de",
+    "type": "split",
+    "children": [
+      {
+        "id": "73ad4e63ce95bd62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fd3c813ff436e6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "449216808db4184f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60bba256151a6f5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6aa2e475df16e702",
+    "type": "split",
+    "children": [
+      {
+        "id": "da53a3ba88588d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dc8104067a0089a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Informatika/Řešení soustavy rovnic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c5844a4010a77ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Informatika/Řešení soustavy rovnic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc7c3559b92a3a53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "301642d612f9de15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Informatika/Řešení soustavy rovnic.md"
+              }
+            }
+          },
+          {
+            "id": "ba06f0a561873fcf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "floating": {
+    "id": "456ff000eaee0609",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ef18689a510523fc",
+        "type": "window",
+        "children": [
+          {
+            "id": "da8567825a7a0808",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "da869827736bb792",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1003,
+        "y": 55,
+        "width": 909,
+        "height": 1017,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "74f3d485ae33cb9a",
+  "lastOpenFiles": [
+    "Informatika/Řešení soustavy rovnic.md",
+    "Informatika/Hotovo/Algoritmy vyhledávání a řazení.md",
+    "Informatika/Hotovo/2D počítačová grafika.md",
+    "Informatika/Hotovo/Řešení rovnic f(x) = 0.md",
+    "Informatika/Hotovo/Algoritmus, programovací jazyk.md",
+    "Informatika/Hotovo/Práce se soubory.md",
+    "Informatika/Hotovo/Řetězce.md",
+    "Informatika/Hotovo/Pole.md",
+    "Informatika/Hotovo/Datové typy.md",
+    "Informatika/Hotovo/Metody.md",
+    "Informatika/Hotovo/Cykly.md",
+    "Informatika/Hotovo/Přiřazovací, podmíněný výraz; přepínač.md",
+    "Informatika/Hotovo/Struktura programu.md",
+    "Informatika/Hotovo/Internet, e-mail, www stránky.md",
+    "Informatika/Hotovo/Počítačová síť.md",
+    "Informatika/Hotovo/Databáze.md",
+    "Informatika/Hotovo/Tabulkový procesor.md",
+    "Informatika/Hotovo/Textový procesor.md",
+    "Informatika/Hotovo/Operační systémy.md",
+    "Informatika/Hotovo/Kategorie software, licence.md",
+    "Informatika/Hotovo/Disk, soubor, složka.md",
+    "Informatika/Hotovo/Tiskárny.md",
+    "Informatika/Hotovo/3D počítačová grafika.md",
+    "Informatika/Hotovo/Záznam dat.md",
+    "Informatika/Hotovo/Zobrazení informace v počítači.md",
+    "Informatika/Hotovo/Architektura počítače.md",
+    "Informatika/Obrázky/excel_spojnicovy.png",
+    "Informatika/Obrázky/excel_kolacovy.png",
+    "Informatika/Obrázky/excel_histogram.png",
+    "Pasted image 20240424173542.png",
+    "Pasted image 20240424173350.png",
+    "Pasted image 20240424173248.png",
+    "Informatika/Obrázky/fx_secny.png",
+    "Informatika/Obrázky/fx_newton.gif",
+    "Pasted image 20240424114837.png",
+    "Informatika/Obrázky/fx_bisekce.png",
+    "Untitled.canvas",
+    "Informatika/Hotovo/Přiřazovací, podmíněný výraz; přepínač.docx",
+    "Informatika/Hotovo/Řetězce.docx",
+    "Informatika/Hotovo/Pole.docx",
+    "Informatika/Hotovo/Datové typy.docx",
+    "Informatika/Hotovo/Datové typy.mediawiki",
+    "Informatika/Hotovo/Datové typy.html",
+    "Informatika/Hotovo/Datové typy.txt",
+    "Informatika/Obrázky",
+    "Informatika/Hotovo",
+    "Informatika/Pracuje se"
+  ]
+}

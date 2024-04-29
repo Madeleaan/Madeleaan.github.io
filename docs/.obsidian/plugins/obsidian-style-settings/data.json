@@ -1,0 +1,9 @@
+{
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-mauve",
+  "catppuccin-interface-styles@@ctp-bold-folder-title": true,
+  "catppuccin-icon-styles@@ctp-icon-hide": true,
+  "catppuccin-heading-settings@@ctp-page-title": "var(--ctp-accent)",
+  "catppuccin-heading-settings@@ctp-h1": "var(--ctp-flamingo)",
+  "catppuccin-heading-settings@@ctp-h2": "var(--ctp-peach)",
+  "catppuccin-heading-settings@@ctp-h3": "var(--ctp-maroon)"
+}

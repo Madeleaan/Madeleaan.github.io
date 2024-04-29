@@ -1,0 +1,8 @@
+{
+  "obsidian-pandoc:pandoc-export-html": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ]
+}
