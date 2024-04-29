@@ -4,6 +4,7 @@ import starlightObsidian, { obsidianSidebarGroup } from 'starlight-obsidian';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://madeleaan.github.io',
 	redirects: {
 		'/': '/notes/informatika/hotovo/2d-počítačová-grafika/',
 		'/notes': '/notes/informatika/hotovo/2d-počítačová-grafika/'
@@ -19,7 +20,7 @@ export default defineConfig({
 			],
 			plugins: [
 				starlightObsidian ({
-					vault: '../Documents/Maturita/'
+					vault: './docs'
 				}),
 			],
 		}),
