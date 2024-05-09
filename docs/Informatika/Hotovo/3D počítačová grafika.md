@@ -18,9 +18,9 @@ K vykreslování nám pomáhá **GPU (Graphics Processing Unit)** - *grafická k
 *Samostatné kusy kódu*, které nějak *manipulují* se 3D objekty. Jsou psány ve *specializovaných jazycích* (GLSL, HLSL). Obvykle běží na grafické kartě, aby mohly výpočty běžet *paralelně*. Dělí se na několik typů:
 ## Vertex shadery 
 Pomocí transformačních matic pohybují / otáčejí s jednotlivými vrcholy objektu. Používá se k vytvoření *více fluidních* a *realistických efektů* (pohyb trávy při chůzi v ní, pohyb vln na vodní hladině)
-# Geometry shadery 
+## Geometry shadery 
 Na rozdíl od vertex shaderů umí i *přidávat a mazat vrcholy* (vertex shader je může jenom upravovat). Slouží obvykle k *procedurálnímu generování detailů* (např. trávy na kamenu)
-# Pixel/Fragment shadery 
+## Pixel/Fragment shadery 
 Provádí se pro *každý pixel* a jejich barevné hodnoty nějak je pomocí *matematických operací* upravují. Používají se obvykle na *aplikaci textur* a procedurálně generované *vizuální efekty*
 # VR Headset
 Zařízení, které umožňuje zobrazit obraz ve *virtuální realitě.* Funguje na principu *dvou obrazovek* (jedna pro každé oko), které zobrazují z *trochu jiných úhlů* (stejně jako naše oči). Mívá několik *senzorů* pro *ovládání* (gyroskop, akcelerometr, optické senzory), to ale může být ovládáno i *externě* - infračervené kamery, lasery. Data ze senzorů jdou do *řídící jednotky* ("mozku headsetu"), ta je *zpracuje*, *aktualizuje obraz* a ten pošle do obrazovek. Tento proces by měl trvat *co nejkratší* dobu, aby nedocházelo k příliš vysoké *odezvě*. Příliš velká *latence* totiž může způsobovat *nemoc z pohybu*, také zvaná *Kinetóza*. Headsety se používají například v lékařství, armádě, k edukativním účelům nebo hraní her. Mezi příklady patří *Apple Vision Pro, HTC Vive, Meta Quest, Oculus Rift*, nebo také *Google Cardboard*, kde řídící jednotku, senzory i obrazovky nahrazuje *mobilní telefon*

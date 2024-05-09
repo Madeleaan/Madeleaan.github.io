@@ -30,3 +30,7 @@ $$\begin{gathered}x_1=\frac{detA_1}{detA} = \frac{\begin{vmatrix}3&2\\6&5\end{vm
 Tento postup se stává nepraktickým při velkých maticích, protože je poté náročné spočítat jejich determinant.
 # Určení počtu řešení
 Determinanty se nám také hodí k určení **počtu řešení soustavy rovnic**. Pokud je determinant *nulový*, pak má soustava buď nekonečně mnoho řešení, nebo není žádné. Pokud je *nenulový*, pak bude mít soustava právě 1 řešení.
+Pro přesnější určení počtu řešení můžeme využít *hodnost matice*. Porovnáváme hodnost *matice soustavy* (A), *rozšířené matice soustavy* (A|b), kde b reprezentuje sloupec výsledků a *počet řádků* (n). Hodnost přitom získáme převodem na trojúhelníkový tvar a následným vyškrtáním nulových a duplicitních řádků (zbylé řádky nesmí být lineárně nezávislé)
+- Pokud jsou všechny tři hodnoty *stejné* (A = A|b = n), pak má soustava *jedno řešení*
+- Pokud je hodnost A menší než hodnost A|b, pak soustava *řešení nemá*
+- Pokud se hodnosti obou matic rovnají, ale jsou obě menší než n, pak má soustava *nekonečně mnoho řešení* a musíme použít *parametry*
