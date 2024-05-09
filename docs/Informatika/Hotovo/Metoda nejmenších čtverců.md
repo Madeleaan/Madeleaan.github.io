@@ -26,6 +26,6 @@ $$\begin{gathered}(1)&\sum2\cdot(ax_i^2+bx_i+c-y_i)\cdot{x_i^2}=0\\(2)&\sum2\cdo
 
 Rovnice
 
-$$\begin{gathered}(1)&\boxed{a}\cdot\sum{x_i^4}&+&\boxed{b}\cdot\sum{x_i^3}&+&\boxed{c}\cdot\sum{x_i^2}&=&\sum{x_i^2y_i}\\(2)&\boxed{a}\cdot\sum{x_i^3}&+&\boxed{b}\cdot\sum{x_i^2}&+&\boxed{c}\cdot\sum{x_i}&=&\sum{x_iy_i}\\(3)&\boxed{a}\cdot\sum{x_i^2}&+&\boxed{b}\cdot\sum{x_i}&+&\boxed{c}\cdot{n}&=&\sum{x_i^2y_i}\\\end{gathered}$$
+$$\begin{gathered}(1)&\boxed{a}\cdot\sum{x_i^4}&+&\boxed{b}\cdot\sum{x_i^3}&+&\boxed{c}\cdot\sum{x_i^2}&=&\sum{x_i^2y_i}\\(2)&\boxed{a}\cdot\sum{x_i^3}&+&\boxed{b}\cdot\sum{x_i^2}&+&\boxed{c}\cdot\sum{x_i}&=&\sum{x_iy_i}\\(3)&\boxed{a}\cdot\sum{x_i^2}&+&\boxed{b}\cdot\sum{x_i}&+&\boxed{c}\cdot{n}&=&\sum{y_i}\\\end{gathered}$$
 
 Matice a dopočítání jako by se stalo...
